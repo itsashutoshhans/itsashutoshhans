@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to Github. 
-I am a Front end developer based in India. 
+I am a Front end developer based in India skilled in html, css, js, react and data structures. 
 
-🔭 Currently working on creating mini projects in html, css and javascript. 
+🔭 Currently learning from the web and working on creating mini projects in html, css and javascript. 
 Here is the list:
   - [Accordion](https://4ywbd.csb.app/)
   - [Typeahead](https://typeahead.ashutoshhans.repl.co/)
+  - [Snake Game](https://snake-game.ashutoshhans.repl.co/)
