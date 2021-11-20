@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to Github. 
+I am a Front end developer based in India. 
+
+🔭 Currently working on creating mini projects in html, css and javascript. 
+Here is the list:
+  - [Accordion](https://4ywbd.csb.app/)
+  - [Typeahead](https://typeahead.ashutoshhans.repl.co/)
