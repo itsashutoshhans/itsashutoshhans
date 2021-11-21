@@ -22,3 +22,4 @@ Here is the list:
   - [Accordion](https://4ywbd.csb.app/)
   - [Typeahead](https://typeahead.ashutoshhans.repl.co/)
   - [Snake Game](https://snake-game.ashutoshhans.repl.co/)
+  - [Restaurant Menu with filters](https://menu.ashutoshhans.repl.co/)
