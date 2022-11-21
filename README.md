@@ -23,3 +23,6 @@ Here is the list:
   - [Typeahead](https://typeahead.ashutoshhans.repl.co/)
   - [Snake Game](https://snake-game.ashutoshhans.repl.co/)
   - [Restaurant Menu with filters](https://menu.ashutoshhans.repl.co/)
+
+React Js projects mini projects
+  - [Tic Tac Toe using hooks](https://codesandbox.io/s/react-tic-tac-toe-3sq8tm?file=/src/App.js) 
