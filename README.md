@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Welcome to Github. 
 I am a Full Stack engineer based out of India skilled in html, css, js, react and data structures. 
 
-🔭 Currently learning from the web and working on creating mini projects in html, css and javascript. 
+🔭 In my free time, I work on learning niche concepts and create some hobby mini projects.
 Here is the list:
   - [Accordion](https://4ywbd.csb.app/)
   - [Typeahead](https://typeahead.ashutoshhans.repl.co/)
