@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to Github. 
-I am a Front end developer based in India skilled in html, css, js, react and data structures. 
+I am a Full Stack engineer based out of India skilled in html, css, js, react and data structures. 
 
 🔭 Currently learning from the web and working on creating mini projects in html, css and javascript. 
 Here is the list:
