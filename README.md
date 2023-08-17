@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to Github. 
-I am a Full Stack engineer based out of India skilled in html, js, react, node and DSA. 
+I am a Full Stack engineer based out of India skilled in html, js, react, node and Algorithms. 
 
 🔭 In my free time, I work on learning niche concepts and create some hobby mini projects.
 Here is the list:
