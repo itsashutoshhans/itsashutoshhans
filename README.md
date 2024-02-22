@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Welcome to Github. 
 I am a Full Stack engineer based out of India skilled in html, js, react, node and Algorithms. 
 
@@ -25,4 +25,4 @@ Here is the list:
   - [Restaurant Menu with filters](https://menu.ashutoshhans.repl.co/)
 
 React Js projects mini projects
-  - [Tic Tac Toe using hooks](https://codesandbox.io/s/react-tic-tac-toe-3sq8tm?file=/src/App.js) 
+  - [Tic Tac Toe using hooks](https://codesandbox.io/s/react-tic-tac-toe-3sq8tm?file=/src/App.js) -->
